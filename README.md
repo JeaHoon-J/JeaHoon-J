@@ -78,7 +78,7 @@
 **Tech**  
 `Python` `PyTorch` `Hugging Face` `QLoRA` `LangGraph` `Qdrant` `FastAPI` `Django` `AWS` `RunPod`
 
-[Repository](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN24-FINAL-3Team)
+[Repository](https://github.com/Jeahoon-J/ALPLED-AI-dLc-Platform)
 
 <br/>
 
